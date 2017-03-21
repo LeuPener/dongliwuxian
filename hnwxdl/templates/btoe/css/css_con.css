@@ -1,0 +1,183 @@
+@charset "utf-8";
+
+
+.main{ width:1000px; height:auto; overflow:hidden; margin:0 auto 40px auto;}
+.all{ width:1000px; height:auto; overflow:hidden; margin:0 auto 40px auto;}
+
+.main{ margin-top:20px;}
+
+.main .main_left{ float:left; width:200px; background:#FFFFFF;}
+
+.main .main_left .leftitem{ border:#d5d5d5 1px solid; border-radius:4px; margin-bottom:12px;}
+
+.main .main_left .leftitem .tit{ background:url("../images/tit1.gif") repeat-x; height:32px; line-height:32px; font-size:16px; text-indent:20px; font-weight:bold;color:#398dee;}
+
+.main .main_left .leftitem .cates{ padding:12px 0px;}
+
+.main .main_left .leftitem .cates dl{ padding:0px 6px;}
+
+.main .main_left .leftitem .cates dl dt{ background-color:#FF7A00; height:30px; line-height:30px; color:#333; font-weight:bold; text-indent:12px; margin-bottom:10px; border-radius:2px; overflow:hidden;}
+
+.main .main_left .leftitem .cates dl dt a:hover{ background-color:#c19244; height:30px; line-height:30px; color:#fff; font-weight:bold; text-indent:12px; margin-bottom:10px; border-radius:2px; overflow:hidden; font-size:16px;}
+
+.main .main_left .leftitem .cates dl dt a{color:#fff; font-size:15px;background-color:#d6a75b; height:30px; line-height:30px; font-weight:bold; text-indent:12px; margin-bottom:10px; border-radius:2px; overflow:hidden; display:block;}
+
+.main .main_left .leftitem .cates dl .s_cates{ background-color:#eee; height:24px; line-height:24px; color:#333; font-weight:bold; text-indent:16px; margin-bottom:6px; border-radius:2px; padding-left: 12px; font-weight: normal;}
+
+.main .main_left .leftitem .cates dl .s_cates a{ color:#333; font-size:12px;}
+
+.main .main_left .leftitem .cates dl dd{line-height:24px;height:24px;padding-left:30px;background:url("../images/arrow1.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/arrow1.gif*/ 16px center no-repeat}
+
+.main .main_left .leftitem .lianxi{ padding:12px 0px; font-size:14px; line-height:30px;}
+
+.main .main_left .leftitem .lianxi dl{ padding:0px 12px;}
+
+.main .main_left .leftitem .lianxi dl dt{background:url("../images/tel1.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/tel1.gif*/ left center no-repeat; padding:10px 0px; padding-left:60px;}
+
+.main .main_left .leftitem .lianxi dl dt .tel{ font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000; font-weight:bold; line-height:24px;}
+
+.main .main_left .leftitem .lianxi dl dd{ line-height:30px;}
+
+
+
+.main .main_right{ float:right; width:785px; overflow:hidden; background:#FFFFFF;}
+
+.main .main_right .sitemap{ border:1px solid #d5d5d5; border-radius:4px; height:34px; line-height:34px; padding-left:12px;}
+
+
+
+.main .main_right .content{border:1px solid #d5d5d5; border-radius:4px; padding:12px 24px; margin-top:12px; font-size:14px; line-height:28px;}
+
+
+
+.main .main_right .content .newslist{ font-size:12px; overflow:hidden}
+
+.main .main_right .content .newslist li{ padding:20px 0px; overflow:hidden;_height:118px;}
+
+.main .main_right .content .newslist li .img{ width:168px; height:118px; float:left; overflow:hidden; margin-top:2px;}
+
+.main .main_right .content .newslist li .img img{ width:167px; height:118px;}
+
+.main .main_right .content .newslist li .txt{ float:right; width:550px; line-height:24px; height:118px; overflow:hidden;}
+
+.main .main_right .content .newslist li .txt h2 a{ font-size:14px; }
+
+
+
+.main .main_right .content .pagebar{ font-family:Verdana, Geneva, sans-serif; height:30px; border:1px solid #d5d5d5; font-size:12px; padding:0px 12px; line-height:30px;}
+
+.main .main_right .content .pagebar .pl{ float:left}
+
+.main .main_right .content .pagebar .pr{ float:right}
+
+.main .main_right .content .pagebar .pr a{ border:1px solid #d5d5d5; display:inline-block; width:12px; height:12px; line-height:12px; padding:4px; _margin-top:4px;}
+
+.main .main_right .content .pagebar .pr a:hover{ border:1px solid #dd127b; }
+
+
+
+.main .main_right .cateslist{ margin-top:12px; overflow:hidden}
+
+.main .main_right .cateslist dl{border:1px solid #d5d5d5; border-radius:4px; overflow:hidden;_float:left }
+
+.main .main_right .cateslist dl dt{ background:url("../images/tit1.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/tit1.gif*/ repeat-x; height:32px; padding-left:12px; line-height:32px; font-weight:bold;}
+
+.main .main_right .cateslist dl dd{ float:left; margin:12px 15px; width:165px; display:inline; }
+
+.main .main_right .cateslist dl dd .img{ width:165px; height:160px;}
+
+.main .main_right .cateslist dl dd .img img{ width:165px; height:160px; border:1px solid #d5d5d5;}
+
+.main .main_right .cateslist dl dd .img a:hover img{ border:#000 1px solid}
+
+.main .main_right .cateslist dl dd .txt{ height:30px; line-height:30px; text-align:center;}
+
+
+
+.news_xaingxi{width:100%;height:60px;border-bottom:#e1e3df dashed 1px;margin:15px auto 0 auto;line-height:80px;color:#505050; font-size:22px;font-weight:bold;text-align:center;}
+
+.news_author{width:100%;height:30px;line-height:30px;color:#505050;font-size:12px;text-align:center;border-bottom:#e1e3df dashed 1px;margin:0 auto;}
+
+.news_content{width:95%;height:auto;line-height:25px;color:#505050;font-size:12px;margin:15px auto 0 auto; overflow:hidden;}
+
+ .form_box dl {clear: both;padding: 8px 0px;    font-size: 12px;    line-height: 28px;}
+
+.form_box dl dt {    display: block;    float: left;    width: 150px;    text-align: right;}
+
+
+
+input.txt {    width: 200px;    float: left;}
+
+#txtContent {    float: left;}
+
+.input {    display: inline;    margin-right: 5px;    padding: 5px;    height: 18px;    line-height: 18px;
+
+    vertical-align: middle;  background: none repeat scroll 0% 0% #FFF;    border: 1px solid #CACACA;    border-radius: 4px;    font-family: "Microsoft YaHei";
+
+}
+
+.txt {    float: right;    width: 100%;    line-height: 24px;}
+
+.form_box dl dd .btn_submit {    padding: 10px 50px;border: 1px solid #429342;background: none repeat scroll 0% 0% #52A152;color: #FFF;font-size: 14px;line-height: 1em;
+
+    margin-left:100px;cursor: pointer;font-family: "Microsoft YaHei";}
+
+    
+
+.search_list {margin-top: 30px;}    
+
+ul, ol, dl, li, dt, dd, p, h1, h2, h3, h4, h5, h6 {
+
+    padding: 0px;
+
+    margin: 0px;
+
+    list-style: none outside none;
+
+}
+
+.search_list li a {
+
+    font-family: "微软雅黑";
+
+    font-size: 14px;
+
+    font-weight: 900;
+
+    text-align: left;
+
+}
+
+.search_list li span {
+
+    text-align: right;
+
+    float: right;
+
+}
+
+.search_list li p {
+
+    margin: 10px 0px;
+
+    line-height: 25px;
+
+    padding-left: 15px;
+
+}
+
+.info_key {
+
+    border-bottom: 1px solid #CCC;
+
+    height: 30px;
+
+    line-height: 30px;
+
+    padding-left: 10px;
+
+    margin: 10px 0px;
+
+    overflow: hidden;
+
+}

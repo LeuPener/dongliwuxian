@@ -1,0 +1,19 @@
+.online-phone { padding:0;display: block; width:95px;height: auto; background:#ededed; border: medium none; opacity: 1;}
+.online-phone div { line-height:24px;}
+.online-phone li {color:#0072c6;font-family:"Microsoft YaHei";width:95px;height:45px;padding:4px 0;margin: 0;cursor:pointer;border-bottom:1px solid #a5c8e1;background: #d5e0e9 url("../images/callservice_2.png")/*tpa=http://www.hnwxdl.com/plugins/lineservice/skin/images/callservice_2.png*/ -202px 4px no-repeat;}
+.online-phone li:hover {color:#fff;border-bottom:1px solid #ecc0a6;background:#ff7424 url("callservice_2.png")/*tpa=http://www.hnwxdl.com/plugins/lineservice/skin/green/callservice_2.png*/ -202px -50px no-repeat; }
+.online-phone li a { color:#0072C6;}
+.online-phone li a:active { color:#0072C6;}
+.online-phone li a:hover { color:#fff;}
+.phone-name { text-indent:35px;}
+.phone-nub {text-indent:3px;}
+.online-tc {cursor: pointer; display: block; width: 95px; height: 90px; background: url("callservice_2.png")/*tpa=http://www.hnwxdl.com/plugins/lineservice/skin/green/callservice_2.png*/ no-repeat 0 0; border-bottom:1px solid #ebac00;  opacity: 1;	}
+.online-tc:hover {background: url("callservice_2.png")/*tpa=http://www.hnwxdl.com/plugins/lineservice/skin/green/callservice_2.png*/ no-repeat -105px 0; }
+.online-code {/*display: block; cursor:pointer; width: 95px; height: 80px; background: url(../images/callservice_2.png) no-repeat 0 -290px; border: medium none;opacity: 1;*/}
+.online-tel {display: block; cursor:pointer; width: 95px; height: 15px; background: url("callservice_2.png")/*tpa=http://www.hnwxdl.com/plugins/lineservice/skin/green/callservice_2.png*/ no-repeat 0 -290px; border: medium none;opacity: 1;padding-top:54px; text-align:center ;font-size:12px;font-weight:bold;font-family:"Microsoft YaHei";}
+.online-left {float:left;position: absolute; left:0; cursor:pointer; width:26px; height:132px;}
+.online-hidden {background:url("callservice_2.png")/*tpa=http://www.hnwxdl.com/plugins/lineservice/skin/green/callservice_2.png*/ -274px -104px no-repeat}
+.online-show {background:url("callservice_2.png")/*tpa=http://www.hnwxdl.com/plugins/lineservice/skin/green/callservice_2.png*/ -274px -244px no-repeat}
+.online-right { float:right}
+.kwfwexin{ width:95px; height:96px; margin:0px 0;}
+.kwfwexin img{ width:95px; height:96px;}

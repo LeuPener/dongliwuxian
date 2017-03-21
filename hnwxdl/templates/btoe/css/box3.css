@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.box3{ background:url("../images/b_01.jpg")/*tpa=http://www.hnwxdl.com/templates/btoe/images/b_01.jpg*/ center; width:100%; height:220px;
+	 border-top:1px solid #e4e4e4;
+	 border-bottom:1px solid #e4e4e4;}
+.box3_1{ width:1000px; margin:0 auto; position:relative;}
+.box3_2{
+	position: absolute;
+	left: 512px;
+	top: 137px;
+}
+.box3_3{
+	position: absolute;
+	left: 706px;
+	top: 136px;
+	width: 260px;
+	font-size: 26px;
+	line-height: 26px; color:#f00; 
+}

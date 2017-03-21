@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.box5{ height:654px; width:100%; background:url("../images/wt_bg.jpg")/*tpa=http://www.hnwxdl.com/templates/btoe/images/wt_bg.jpg*/ center;}
+.box5_3{ height:620px; width: 1000px;margin: 0 auto; position:relative;}
+.box5_3_01{ font-size:28px; color:#ff0; font-weight:100; position: absolute; 
+	left: 421px;
+	top: 546px;
+	height: 46px;
+	width: 490px;
+}

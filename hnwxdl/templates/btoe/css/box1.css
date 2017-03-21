@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.box1{
+	width: 100%;
+	height: 498px;
+	margin: 0 auto;
+	background:url("../images/bg_box1.jpg")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_box1.jpg*/ center top;
+	min-width:1000px;
+	 border-bottom:1px solid #e4e4e4;
+}
+
+.box1 .wi{height:498px; position:relative;}
+.box1_1{
+	position: absolute;
+	left: 36px;
+	top: 149px;
+	width: 398px;
+	height: 131px;
+	line-height: 42px;
+	font-size: 18px;
+}
+.box1_2{
+	font-size: 24px;
+	position: absolute;
+	left: 496px;
+	top: 71px;
+	height: 141px;
+	width: 505px;
+}
+.box1_3_01{ font-size:28px; color:#f00; font-weight:100;
+	position: absolute;
+	left: 481px;
+	top: 362px;
+	height: 46px;
+	width: 490px;
+}
+.box1_3{
+	position: absolute;
+	left: 601px;
+	top: 402px;
+	height: 52px;
+	width: 278px;
+}
+.box1_1 span{ color:#389dee; font-size:24px; font-weight:bold;}
+.box1_2 span{ color:#389dee; font-size:24px; font-weight:bold;}

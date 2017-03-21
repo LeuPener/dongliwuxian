@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.box2{ height:576px; width:1000px; margin:0 auto;}
+.p_box{ width:460px; height:202px; float:left; padding:10px 10px;}
+.p_1{ border-right:1px solid #CCC;border-bottom:1px solid #CCC; height:201px; width:459px;}
+.p_2{ border-bottom:1px solid #CCC; height:201px;}
+.p_3{ border-right:1px solid #CCC; width:459px;}
+.p_box .p_box_l{ width:143px; float:left; text-align:center; font-size:18px; font-weight:bold; line-height:18px;}
+.p_box .p_box_l li span{ border-bottom:2px solid #389dee; padding-bottom:4px;}
+.p_box .p_box_r{ width:260px; float:right; font-size:18px;}
+.p_box_r li{
+	height: 110px;
+	padding-top: 30px;
+}
+.p_box_r .p_box_btn{ background:url("../images/btn_box2.jpg")/*tpa=http://www.hnwxdl.com/templates/btoe/images/btn_box2.jpg*/; width:93px; height:29px; text-align:center; line-height:29px; color:#FFF; font-size:14px;padding-top:0px;}
+.p_box_r .p_box_btn:hover{ background:url("../images/btn_box2_2.jpg")/*tpa=http://www.hnwxdl.com/templates/btoe/images/btn_box2_2.jpg*/; width:93px; height:29px; text-align:center; line-height:29px; color:#FFF; font-size:14px;padding-top:0px;}
+.p_box_r .p_box_btn a{ color:#FFF;}
+.p_1:hover{ background:url("../images/bg_p1.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_p1.gif*/ 455px 196px no-repeat;}
+.p_2:hover{ background:url("../images/bg_p2.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_p2.gif*/ 4px 196px no-repeat;}
+.p_3:hover{ background:url("../images/bg_p3.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_p3.gif*/ 455px 4px no-repeat;}
+.p_4:hover{ background:url("../images/bg_p4.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_p4.gif*/ 4px 4px no-repeat;}

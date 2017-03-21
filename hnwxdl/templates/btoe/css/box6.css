@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+.box6{ height:690px; width:100%; background:url("../images/bg_bl.gif")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_bl.gif*/ center top no-repeat;
+	 border-bottom:1px solid #e4e4e4;}
+.box6_1{
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	height: 320px;
+}
+.box6_1_1{
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+	font-size: 24px;
+	font-weight: bold;
+	top: 60px;
+}
+.box6_1_2{
+	width: 154px;
+	margin: 0 auto;
+	position: absolute;
+	top: 125px;
+	left: 195px;
+}
+.box6_1_3{
+	width: 456px;
+	margin: 0 auto;
+	position: absolute;
+	top: 134px;
+	left: 355px;
+	font-size: 18px;
+}
+.box6_1_3 span{ padding:5px 10px; border:3px solid #d7251c; color:#389dee; font-size:36px; font-weight:bold; line-height:80px;}
+.box6_2{ width:1000px; margin:0 auto;}
+.cms_1{ width:240px; height:366px; float:left; margin-right:13px; background:url("../images/bg_cms1.jpg")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_cms1.jpg*/; position:relative;}
+.box6_2 .cms_2{float:right;  margin:0;}
+.cms_1:hover{background:url("../images/bg_cms2.jpg")/*tpa=http://www.hnwxdl.com/templates/btoe/images/bg_cms2.jpg*/;}
+.cms_title{
+	position: absolute;
+	width: 100%;
+	left: 1px;
+	top: 17px;
+	text-align: center;
+}
+.cms_title span{ padding:0 10px; background:#FFF; font-size:24px;}
+.cms_content{
+	position: absolute;
+	width: 230px;
+	height: 290px;
+	line-height: 24px;
+	font-size: 14px;
+	left: 0px;
+	top: 62px;
+	padding:5px;
+}
+.cms_content p{padding:0px 6px;}

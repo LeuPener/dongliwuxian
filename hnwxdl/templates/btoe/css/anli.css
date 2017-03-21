@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+.main .main_right .content{border:1px solid #d5d5d5; border-radius:4px; padding:12px 12px; margin-top:12px; font-size:14px; line-height:28px;}
+
+
+.intro{text-align:center;min-width:760px;margin-top:20px}
+.intro .layout-wrapper{width:760px;margin:0 auto;text-align:left}
+.intro .layout-wrapper{*zoom:1}
+.intro .layout-wrapper:before,.intro .layout-wrapper:after{display:table;content:""}
+.intro .layout-wrapper:after{clear:both}
+.intro .layout-wrapper li{float:left;width:225px;padding:0;margin:0 12px 10px 12px;background:#fff ;position:relative; border:#e9e9e9 solid 1px;}
+.intro .layout-wrapper li h4{font-size:16px;color:#333;margin-top:5px;line-height:40px; text-align:center;overflow: hidden;}
+.intro .layout-wrapper li h4 a:link{font-size:16px;color:#333;margin-top:5px;line-height:40px; text-align:center;width: 225px;}
+.intro .layout-wrapper li h4 a:hover{color:#fff;}
+.intro .layout-wrapper li p{line-height:1.8;font-size:14px;padding-left:6px;overflow:hidden; height:150px;}
+.intro .layout-wrapper li a{display:inline-block;width:110px;height:40px;margin-top:0;line-height:40px; text-align:center;color:#fff;font-size:18px}
+.intro .layout-wrapper li a:hover{text-decoration:none}
+.intro .layout-wrapper li.intro-sm{background-position:0 0}
+#go-wrapper .intro-sm .tu {
+	height: 300px;
+	width: 225px;
+	overflow:hidden;
+	border-bottom:#e9e9e9 solid 1px;
+}
+
+.intro .layout-wrapper li.intro-sm a{}
+.intro .layout-wrapper li.intro-sd{background-position:-320px 0}
+.intro .layout-wrapper li.intro-sd a{background:#ffcc60 url("../images/arrow-right.png") no-repeat 104px center}
+.intro .layout-wrapper li.intro-gw{background-position:-640px 0}
+.intro .layout-wrapper li.intro-gw a{background:#4babff url("../images/arrow-right.png") no-repeat 104px center}
+.intro .layout-wrapper li:hover{opacity:.9;filter:alpha(opacity=90);-webkit-box-shadow:2px 2px 3px #aaa;-moz-box-shadow:2px 2px 3px #aaa;box-shadow:2px 2px 3px #aaa}
+.intro .layout-wrapper li:hover.intro-sm a:hover{background-color:#3086f2}
+.intro .layout-wrapper li:hover.intro-sd a:hover{background-color:#3086f2}
+.intro .layout-wrapper li:hover.intro-gw a:hover{background-color:#3086f2}
+
+
+.r{ float:right;}
+.l{ float:left;}
+
+.bg_orange{ background-color:#F90}
+.bg_green{ background-color:#4bd8a1}
